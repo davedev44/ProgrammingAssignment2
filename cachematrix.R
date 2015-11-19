@@ -1,7 +1,7 @@
 # Collaboration note: I took a look at the discussion forum post 
-# "Testing the codes" as I was looking for some confirmation that I was on the
-# right track for usage of these functions. It did confirm that I was on the
-# right track. I did not use it for any code (as none was shared anyway).
+# "Testing the codes" after writing the code. Also, this code
+# is based on the example given along with the assignment for
+# caching the mean of a vector.
 
 ## Pair of functions that allow for caching of the inverse
 ## of a matrix so that if we already calculated the inverse
